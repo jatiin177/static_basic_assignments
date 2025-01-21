@@ -1,0 +1,1 @@
+# static_basic_assignments
